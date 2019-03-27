@@ -1,3 +1,7 @@
+# 参考文档
+
+ [better-scroll中文api](https://ustbhuangyi.github.io/better-scroll/doc/zh-hans/#better-scroll%20%E6%98%AF%E4%BB%80%E4%B9%88)
+
 # 一、安装better-scroll
 
   cnpm install better-scroll -D
@@ -66,3 +70,6 @@
    this.foodScroll.scrollToElement(foodList[index],300)
  }
  ```
+ 
+ 
+ 
